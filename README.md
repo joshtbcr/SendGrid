@@ -13,6 +13,10 @@ Los escenarios de uso comunes de SendGrid incluyen:
 •	Reenviar consultas de clientes.
 •	Notificaciones por correo electrónico desde su aplicación.
 
+# Video tutorial
+
+https://youtu.be/u60hYLSZRZg
+
 # Para registrarse en una cuenta SendGrid:
 
 •	Debe ingresar a la página principal de twilio sendgrid.
