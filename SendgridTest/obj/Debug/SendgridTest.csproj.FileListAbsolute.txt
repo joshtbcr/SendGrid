@@ -1,0 +1,12 @@
+C:\Users\izahir.cascante\source\repos\Sendgrid\SendgridTest\bin\Debug\SendgridTest.exe.config
+C:\Users\izahir.cascante\source\repos\Sendgrid\SendgridTest\bin\Debug\SendgridTest.exe
+C:\Users\izahir.cascante\source\repos\Sendgrid\SendgridTest\bin\Debug\SendgridTest.pdb
+C:\Users\izahir.cascante\source\repos\Sendgrid\SendgridTest\bin\Debug\Newtonsoft.Json.dll
+C:\Users\izahir.cascante\source\repos\Sendgrid\SendgridTest\bin\Debug\SendGrid.dll
+C:\Users\izahir.cascante\source\repos\Sendgrid\SendgridTest\bin\Debug\Newtonsoft.Json.xml
+C:\Users\izahir.cascante\source\repos\Sendgrid\SendgridTest\bin\Debug\SendGrid.pdb
+C:\Users\izahir.cascante\source\repos\Sendgrid\SendgridTest\bin\Debug\SendGrid.xml
+C:\Users\izahir.cascante\source\repos\Sendgrid\SendgridTest\obj\Debug\SendgridTest.csprojAssemblyReference.cache
+C:\Users\izahir.cascante\source\repos\Sendgrid\SendgridTest\obj\Debug\SendgridTest.csproj.CopyComplete
+C:\Users\izahir.cascante\source\repos\Sendgrid\SendgridTest\obj\Debug\SendgridTest.exe
+C:\Users\izahir.cascante\source\repos\Sendgrid\SendgridTest\obj\Debug\SendgridTest.pdb

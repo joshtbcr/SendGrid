@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29318.209
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SendgridTest", "SendgridTest\SendgridTest.csproj", "{1077DA64-F97C-441F-98C5-8EFE29C2CFBD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1077DA64-F97C-441F-98C5-8EFE29C2CFBD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1077DA64-F97C-441F-98C5-8EFE29C2CFBD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1077DA64-F97C-441F-98C5-8EFE29C2CFBD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1077DA64-F97C-441F-98C5-8EFE29C2CFBD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {57A61E8E-7D4F-4350-B34E-E230F2B30FE9}
+	EndGlobalSection
+EndGlobal
